@@ -1,4 +1,1 @@
-function sayHello()
-{
-    alert("Hej från JavaScript!");
-}
+console.log("Hello Susanna!");
